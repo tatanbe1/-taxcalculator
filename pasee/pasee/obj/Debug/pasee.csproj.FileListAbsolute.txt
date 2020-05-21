@@ -1,0 +1,17 @@
+C:\Users\66630\source\repos\pasee\pasee\bin\Debug\pasee.exe.config
+C:\Users\66630\source\repos\pasee\pasee\bin\Debug\pasee.exe
+C:\Users\66630\source\repos\pasee\pasee\bin\Debug\pasee.pdb
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.csprojAssemblyReference.cache
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form1.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form2.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Properties.Resources.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.csproj.GenerateResource.cache
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.csproj.CoreCompileInputs.cache
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.exe
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.pdb
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form3.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form4.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form5.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form6.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form7.resources
+C:\Users\66630\source\repos\pasee\pasee\obj\Debug\pasee.Form8.resources
